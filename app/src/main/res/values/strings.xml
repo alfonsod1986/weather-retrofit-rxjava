@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="lbl_txt_location">Mérida, Yuc.</string>
+    <string name="lbl_txt_description">Soleado</string>
+    <string name="lbl_txt_temperature">20.0C</string>
+    <string name="lbl_txt_precipitation">0.0%</string>
 </resources>
