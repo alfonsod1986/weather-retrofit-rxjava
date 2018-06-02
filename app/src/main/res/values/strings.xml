@@ -4,4 +4,6 @@
     <string name="lbl_txt_description">Soleado</string>
     <string name="lbl_txt_temperature">20.0C</string>
     <string name="lbl_txt_precipitation">0.0%</string>
+    <string name="placeholder_temperature">TEMP</string>
+    <string name="placeholder_precipitation">PRECIP</string>
 </resources>
